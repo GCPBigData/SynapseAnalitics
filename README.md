@@ -1,2 +1,2 @@
-# AzureSynapse
+# Azure Synapse Analytics
 
